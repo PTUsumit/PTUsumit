@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm SUMIT SRIMANI 👋
 
 -🎓 **Student at IIT Madras - BS Data Science**  
 -💻 **Tech Stack:** React | Next.js | Python | TensorFlow | OpenCV | NumPy  
