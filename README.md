@@ -1,6 +1,7 @@
 # Hi, I'm SUMIT SRIMANI 👋
 
--🎓 **Student at IIT Madras - BS Data Science**  
+-🎓 **Student at IIT Madras - BS Data Science** 
+-🎓 **Student at Puducherry Technological University - B.Tech Electronics and Communication Engineering** 
 -💻 **Tech Stack:** React | Next.js | Python | TensorFlow | OpenCV | NumPy  
 -🚀 **Interests:** Machine Learning | Computer Vision | Full-Stack Development  
 -🔭 **Currently Learning:** (https://github.com/opencv/opencv),(https://github.com/numpy/numpy)  
